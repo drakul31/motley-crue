@@ -1,0 +1,89 @@
+body{
+    background-image: url(integrantes/fundo\ 3.jpg!d);
+    background-size: cover;
+}
+
+#nikki img{
+    height: 200px;
+    width: 150px;
+    border: rgb(71, 1, 1) solid 5px;
+    border-radius: 50%;
+    object-fit: cover;
+    left: 1020px;
+    position: absolute;
+}
+
+#sixx{
+    color: blanchedalmond;
+    left: 1040px;
+    position: absolute;
+    top: 200px;
+}
+
+#mars img{
+    height: 200px;
+    width: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+    left: 100px;
+    position: absolute;
+    border: rgb(71, 1, 1) solid 5px;
+}
+
+#mick{
+    color: blanchedalmond;
+    left: 120px;
+    position: absolute;
+    top: 200px;
+}
+
+#vince img{
+    height: 200px;
+    width: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+    left: 100px;
+    position: absolute;
+    top: 300px;
+    border: rgb(71, 1, 1) solid 5px;
+}
+
+#niel{
+    color: blanchedalmond;
+    left: 120px;
+    position: absolute;
+    top: 500px;
+}
+
+#tommy img{
+    height: 200px;
+    width: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+    left: 1020px;
+    position: absolute;
+    top: 300px;
+    border: rgb(71, 1, 1) solid 5px;
+}
+
+#lee{
+    color: blanchedalmond;
+    left: 1040px;
+    position: absolute;
+    top: 500px;
+}
+
+#video{
+    position: absolute;
+    top: -50px;
+    left: 440px
+}
+
+#sobre{
+    color: rgba(245, 245, 245, 0.904);
+    font-size: 20px;
+    position: absolute;
+    top: 550px;
+}
+
+
